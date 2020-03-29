@@ -1,1 +1,1 @@
-# LGD_Beta_Distribution
+# LGD Modelling with a Time-Varying Beta Distribution
